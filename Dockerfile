@@ -1,4 +1,4 @@
-FROM python:3.9.1-alpine3.12
+FROM python:3.7-alpine
 MAINTAINER magnetix
 
 ENV PYTHONUNBUFFERED 1
