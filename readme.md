@@ -1,4 +1,4 @@
-1. Tech
+1. Technologies
     - python
     - django
     - django REST
